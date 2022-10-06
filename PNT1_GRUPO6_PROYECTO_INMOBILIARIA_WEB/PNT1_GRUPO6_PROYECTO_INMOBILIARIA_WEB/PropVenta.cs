@@ -6,7 +6,7 @@ namespace PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB
 {
     class PropVenta: Propiedad
     {
-        public PropVenta(int idPropiedad, string descripcion, double precio, string srcImagen) : base(idPropiedad, descripcion, precio, srcImagen)
+        public PropVenta(int idPropiedad, string descripcion, double precio, string srcImagen, Tipo tipo) : base(idPropiedad, descripcion, precio, srcImagen, tipo)
         {
         }
 

@@ -6,7 +6,7 @@ namespace PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Los atributos van en private?");
         }
     }
 }

@@ -15,12 +15,15 @@ namespace PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB
 
         private string SrcImagen { get; set; }
 
-        protected Propiedad(int idPropiedad, string descripcion, double precio, string srcImagen)
+        private Tipo Tipo { get; set; }
+
+        protected Propiedad(int idPropiedad, string descripcion, double precio, string srcImagen, Tipo tipo)
         {
             IdPropiedad = idPropiedad;
             Descripcion = descripcion;
             Precio = precio;
             SrcImagen = srcImagen;
+            Tipo = tipo;
         }
 
         public void Elimininar()
