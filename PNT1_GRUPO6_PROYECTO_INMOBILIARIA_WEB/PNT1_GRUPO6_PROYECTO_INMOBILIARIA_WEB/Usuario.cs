@@ -23,6 +23,7 @@ namespace PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB
         }
 
 
+
         public void Elimininar()
         {
 
