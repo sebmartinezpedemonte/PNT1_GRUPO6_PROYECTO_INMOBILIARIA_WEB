@@ -10,14 +10,14 @@
         "projectUniqueName": "C:\\PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB\\PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB\\PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB\\PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB.csproj",
         "projectName": "PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB",
         "projectPath": "C:\\PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB\\PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB\\PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB\\PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB.csproj",
-        "packagesPath": "C:\\Users\\sebmartinez\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Felix\\.nuget\\packages\\",
         "outputPath": "C:\\PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB\\PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB\\PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\sebmartinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Felix\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
