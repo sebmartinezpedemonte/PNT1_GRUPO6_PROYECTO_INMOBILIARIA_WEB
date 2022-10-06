@@ -7,7 +7,7 @@ namespace PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB
     class Usuario
     {
 
-        private int IdUsuario { get; set; };
+        private int IdUsuario { get; set; }
         private string Nombre { get; set; }
         private string Apellido { get; set; }
         private string Email { get; set; }
