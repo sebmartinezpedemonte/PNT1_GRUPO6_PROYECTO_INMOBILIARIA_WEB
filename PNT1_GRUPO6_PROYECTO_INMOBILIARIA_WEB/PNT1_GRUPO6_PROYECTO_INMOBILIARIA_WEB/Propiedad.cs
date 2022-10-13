@@ -7,15 +7,14 @@ namespace PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB
     abstract class Propiedad
     {
         
+        public int IdPropiedad { get; set; }
+        public string Descripcion { get; set; }
 
-        private int IdPropiedad { get; set; }
-        private string Descripcion { get; set; }
+        public double Precio { get; set; }
 
-        private double Precio { get; set; }
+        public string SrcImagen { get; set; }
 
-        private string SrcImagen { get; set; }
-
-        private Tipo Tipo { get; set; }
+        public Tipo Tipo { get; set; }
 
         protected Propiedad(int idPropiedad, string descripcion, double precio, string srcImagen, Tipo tipo)
         {

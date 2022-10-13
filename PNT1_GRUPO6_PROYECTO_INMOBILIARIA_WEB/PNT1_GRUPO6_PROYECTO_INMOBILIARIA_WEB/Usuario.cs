@@ -7,11 +7,11 @@ namespace PNT1_GRUPO6_PROYECTO_INMOBILIARIA_WEB
     class Usuario
     {
 
-        private int IdUsuario { get; set; }
-        private string Nombre { get; set; }
-        private string Apellido { get; set; }
-        private string Email { get; set; }
-        private string Contrasena { get; set; }
+        public int IdUsuario { get; set; }
+        public string Nombre { get; set; }
+        public string Apellido { get; set; }
+        public string Email { get; set; }
+        public string Contrasena { get; set; }
 
         public Usuario(int idUsuario, string nombre, string apellido, string email, string contrasena)
         {
